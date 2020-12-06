@@ -1,0 +1,2 @@
+usb_comm.c:11:9:interpretHostComand	16	static
+usb_comm.c:20:9:sendLogData	16	static
